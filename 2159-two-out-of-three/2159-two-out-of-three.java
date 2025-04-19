@@ -1,20 +1,18 @@
 class Solution {
-  public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
-    List<Integer> ans = new ArrayList<>();
-    int[] count = new int[101];
-
-    for (int[] nums : new int[][] {nums1, nums2, nums3})
-      update(count, nums);
-
-    for (int i = 1; i <= 100; ++i)
-      if (count[i] >= 2)
-        ans.add(i);
-
-    return ans;
-  }
-
-  private void update(int[] count, int[] nums) {
-    for (final int num : Arrays.stream(nums).boxed().collect(Collectors.toSet()))
-      ++count[num];
-  }
+    public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
+        List<Integer> list = new ArrayList<>();
+        int count[][] = new int[3][101];
+        for(int n : nums1)
+            count[0][n] = 1;
+        for(int n : nums2) 
+            count[1][n] = 1;
+        for(int n : nums3)
+            count[2][n] = 1;
+        
+        for(int i=1; i<=100; i++) {
+            if(count[0][i] + count[1][i] + count[2][i] > 1)
+                list.add(i);
+        }
+        return list;
+    }
 }
