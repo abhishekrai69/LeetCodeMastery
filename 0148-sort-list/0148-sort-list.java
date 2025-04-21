@@ -8,61 +8,52 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+public class Solution {
+  
   public ListNode sortList(ListNode head) {
-    final int length = getLength(head);
-    ListNode dummy = new ListNode(0, head);
-
-    for (int k = 1; k < length; k *= 2) {
-      ListNode curr = dummy.next;
-      ListNode tail = dummy;
-      while (curr != null) {
-        ListNode l = curr;
-        ListNode r = split(l, k);
-        curr = split(r, k);
-        ListNode[] merged = merge(l, r);
-        tail.next = merged[0];
-        tail = merged[1];
-      }
+    if (head == null || head.next == null)
+      return head;
+        
+    // step 1. cut the list to two halves
+    ListNode prev = null, slow = head, fast = head;
+    
+    while (fast != null && fast.next != null) {
+      prev = slow;
+      slow = slow.next;
+      fast = fast.next.next;
     }
-
-    return dummy.next;
+    
+    prev.next = null;
+    
+    // step 2. sort each half
+    ListNode l1 = sortList(head);
+    ListNode l2 = sortList(slow);
+    
+    // step 3. merge l1 and l2
+    return merge(l1, l2);
   }
-
-  private int getLength(ListNode head) {
-    int length = 0;
-    for (ListNode curr = head; curr != null; curr = curr.next)
-      ++length;
-    return length;
-  }
-
-  private ListNode split(ListNode head, int k) {
-    while (--k > 0 && head != null)
-      head = head.next;
-    ListNode rest = head == null ? null : head.next;
-    if (head != null)
-      head.next = null;
-    return rest;
-  }
-
-  private ListNode[] merge(ListNode l1, ListNode l2) {
-    ListNode dummy = new ListNode(0);
-    ListNode tail = dummy;
-
+  
+  ListNode merge(ListNode l1, ListNode l2) {
+    ListNode l = new ListNode(0), p = l;
+    
     while (l1 != null && l2 != null) {
-      if (l1.val > l2.val) {
-        ListNode temp = l1;
-        l1 = l2;
-        l2 = temp;
+      if (l1.val < l2.val) {
+        p.next = l1;
+        l1 = l1.next;
+      } else {
+        p.next = l2;
+        l2 = l2.next;
       }
-      tail.next = l1;
-      l1 = l1.next;
-      tail = tail.next;
+      p = p.next;
     }
-    tail.next = l1 == null ? l2 : l1;
-    while (tail.next != null)
-      tail = tail.next;
-
-    return new ListNode[] {dummy.next, tail};
+    
+    if (l1 != null)
+      p.next = l1;
+    
+    if (l2 != null)
+      p.next = l2;
+    
+    return l.next;
   }
+
 }
