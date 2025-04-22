@@ -6,6 +6,7 @@ This repository showcase my leetcode problem solving journey...
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
 | [3194-find-words-containing-character](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3194-find-words-containing-character) |
@@ -19,6 +20,7 @@ This repository showcase my leetcode problem solving journey...
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
@@ -37,6 +39,7 @@ This repository showcase my leetcode problem solving journey...
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
 ## Linked List
 |  |
@@ -54,8 +57,17 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
