@@ -46,6 +46,7 @@ This repository showcase my leetcode problem solving journey...
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
