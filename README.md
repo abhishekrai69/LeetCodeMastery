@@ -72,6 +72,7 @@ This repository showcase my leetcode problem solving journey...
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
