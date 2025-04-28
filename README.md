@@ -16,6 +16,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
 | [3194-find-words-containing-character](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3194-find-words-containing-character) |
 | [3811-reverse-degree-of-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3811-reverse-degree-of-a-string) |
@@ -74,6 +75,7 @@ This repository showcase my leetcode problem solving journey...
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
