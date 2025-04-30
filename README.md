@@ -16,6 +16,7 @@ This repository showcase my leetcode problem solving journey...
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
