@@ -104,4 +104,20 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
