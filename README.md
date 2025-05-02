@@ -8,6 +8,7 @@ This repository showcase my leetcode problem solving journey...
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
@@ -17,6 +18,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0006-zigzag-conversion) |
+| [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
@@ -25,6 +27,7 @@ This repository showcase my leetcode problem solving journey...
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
@@ -96,6 +99,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
+| [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +124,12 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0100-same-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
