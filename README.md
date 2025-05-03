@@ -10,6 +10,7 @@ This repository showcase my leetcode problem solving journey...
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
@@ -81,6 +82,7 @@ This repository showcase my leetcode problem solving journey...
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
