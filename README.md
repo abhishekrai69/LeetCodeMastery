@@ -18,6 +18,7 @@ This repository showcase my leetcode problem solving journey...
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
@@ -28,6 +29,7 @@ This repository showcase my leetcode problem solving journey...
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
@@ -134,4 +136,8 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
