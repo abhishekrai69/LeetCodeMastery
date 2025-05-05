@@ -19,6 +19,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
@@ -61,6 +62,7 @@ This repository showcase my leetcode problem solving journey...
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
@@ -102,6 +104,7 @@ This repository showcase my leetcode problem solving journey...
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 ## Stack
