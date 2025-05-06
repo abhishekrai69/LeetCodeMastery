@@ -6,6 +6,7 @@ This repository showcase my leetcode problem solving journey...
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
@@ -63,6 +64,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
