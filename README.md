@@ -23,6 +23,7 @@ This repository showcase my leetcode problem solving journey...
 | [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
@@ -34,6 +35,7 @@ This repository showcase my leetcode problem solving journey...
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
