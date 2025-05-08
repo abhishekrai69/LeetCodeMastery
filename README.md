@@ -54,6 +54,7 @@ This repository showcase my leetcode problem solving journey...
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
 ## Linked List
@@ -89,6 +90,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
@@ -147,4 +149,8 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
