@@ -92,6 +92,7 @@ This repository showcase my leetcode problem solving journey...
 | [0007-reverse-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -113,6 +114,7 @@ This repository showcase my leetcode problem solving journey...
 | [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,4 +156,5 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
