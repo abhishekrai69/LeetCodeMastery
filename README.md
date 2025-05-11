@@ -50,6 +50,7 @@ This repository showcase my leetcode problem solving journey...
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1642-water-bottles) |
 | [3811-reverse-degree-of-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ This repository showcase my leetcode problem solving journey...
 | [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1642-water-bottles](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
