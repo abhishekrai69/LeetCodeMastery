@@ -11,6 +11,7 @@ This repository showcase my leetcode problem solving journey...
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
@@ -94,6 +95,7 @@ This repository showcase my leetcode problem solving journey...
 | [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1642-water-bottles) |
