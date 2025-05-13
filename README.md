@@ -14,6 +14,7 @@ This repository showcase my leetcode problem solving journey...
 | [1031-add-to-array-form-of-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
 | [3194-find-words-containing-character](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3194-find-words-containing-character) |
@@ -84,6 +85,7 @@ This repository showcase my leetcode problem solving journey...
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -113,6 +115,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
