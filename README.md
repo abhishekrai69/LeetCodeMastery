@@ -6,6 +6,7 @@ This repository showcase my leetcode problem solving journey...
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -78,6 +79,7 @@ This repository showcase my leetcode problem solving journey...
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@ This repository showcase my leetcode problem solving journey...
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 ## Greedy
 |  |
