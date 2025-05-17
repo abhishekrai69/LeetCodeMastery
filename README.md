@@ -12,6 +12,7 @@ This repository showcase my leetcode problem solving journey...
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1031-add-to-array-form-of-integer) |
@@ -176,4 +177,8 @@ This repository showcase my leetcode problem solving journey...
 | ------- |
 | [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
