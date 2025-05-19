@@ -14,6 +14,7 @@ This repository showcase my leetcode problem solving journey...
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -91,6 +92,7 @@ This repository showcase my leetcode problem solving journey...
 | ------- |
 | [0148-sort-list](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
