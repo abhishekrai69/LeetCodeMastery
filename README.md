@@ -7,6 +7,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -75,6 +76,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -122,6 +124,7 @@ This repository showcase my leetcode problem solving journey...
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0011-container-with-most-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
