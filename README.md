@@ -30,6 +30,7 @@ This repository showcase my leetcode problem solving journey...
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2159-two-out-of-three](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2159-two-out-of-three) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
 | [3194-find-words-containing-character](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3194-find-words-containing-character) |
 ## String
@@ -108,6 +109,7 @@ This repository showcase my leetcode problem solving journey...
 | [1019-squares-of-a-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -136,6 +138,7 @@ This repository showcase my leetcode problem solving journey...
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
