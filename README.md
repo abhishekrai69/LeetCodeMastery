@@ -42,6 +42,7 @@ This repository showcase my leetcode problem solving journey...
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
+| [1250-longest-common-subsequence](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2032-largest-odd-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
 | [3194-find-words-containing-character](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3194-find-words-containing-character) |
@@ -159,6 +160,7 @@ This repository showcase my leetcode problem solving journey...
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
