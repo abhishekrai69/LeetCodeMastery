@@ -25,6 +25,7 @@ This repository showcase my leetcode problem solving journey...
 | [0792-binary-search](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1031-add-to-array-form-of-integer) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -140,6 +141,7 @@ This repository showcase my leetcode problem solving journey...
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
