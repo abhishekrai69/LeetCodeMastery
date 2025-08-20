@@ -14,6 +14,7 @@ This repository showcase my leetcode problem solving journey...
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +162,7 @@ This repository showcase my leetcode problem solving journey...
 | [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/1236-n-th-tribonacci-number) |
