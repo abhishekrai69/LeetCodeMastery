@@ -36,6 +36,7 @@ This repository showcase my leetcode problem solving journey...
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2476-check-distances-between-same-letters](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/2476-check-distances-between-same-letters) |
 | [3194-find-words-containing-character](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3194-find-words-containing-character) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0100-same-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -224,4 +226,8 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0319-bulb-switcher) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
