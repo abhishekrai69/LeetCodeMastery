@@ -124,6 +124,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0319-bulb-switcher) |
@@ -164,6 +165,7 @@ This repository showcase my leetcode problem solving journey...
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -233,4 +235,8 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
