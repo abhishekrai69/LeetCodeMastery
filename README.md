@@ -124,6 +124,7 @@ This repository showcase my leetcode problem solving journey...
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekrai69/LeetCodeMastery/tree/master/0268-missing-number) |
